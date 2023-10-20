@@ -21,7 +21,7 @@ This is a basic PHP proxy script that allows you to make HTTP requests to extern
 4. Access the proxy by providing a target URL as a parameter. For example:
 
     ```
-    http://localhost:8000/proxy.php?url=https://example.com
+    http://localhost:8000?url=https://example.com
     ```
 
 5. The proxy will return the response from the specified URL, maintaining the original format.
