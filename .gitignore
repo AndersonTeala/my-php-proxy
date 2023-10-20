@@ -98,4 +98,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Monolog
+*.log
+
 # End of https://www.toptal.com/developers/gitignore/api/linux,macos,windows,composer,phpunit
