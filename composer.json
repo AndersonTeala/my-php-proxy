@@ -1,0 +1,12 @@
+{
+  "name": "andersonteala/my-php-proxy",
+  "description": "A simple PHP proxy",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Anderson Teala",
+      "email": "andersonteala@gmail.com"
+    }
+  ],
+  "require": {}
+}
